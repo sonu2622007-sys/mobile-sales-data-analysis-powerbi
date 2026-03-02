@@ -14,5 +14,5 @@ This is my second Power BI project focused on analyzing mobile sales performance
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard Preview](Screenshots(99).png)
+![Dashboard Preview](dashboard_preview.png)
 
