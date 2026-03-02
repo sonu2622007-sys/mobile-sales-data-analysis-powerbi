@@ -13,6 +13,4 @@ This is my second Power BI project focused on analyzing mobile sales performance
 - Data Cleaning
 - Data Visualization
 
-## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
 
